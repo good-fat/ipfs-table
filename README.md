@@ -1,2 +1,2 @@
 # ipfs-table
-ipfs-database
+一个基于IPFS的数据管理索引程序。
