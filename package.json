@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "immutable": "^4.1.0",
     "ipfs-http-client": "^57.0.3"
   }
 }

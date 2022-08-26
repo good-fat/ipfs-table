@@ -1,0 +1,25 @@
+{
+  "update_level": 2,
+  "update_type": ["index", "json", "text", "blob"],
+  "update_time": 1661412437,
+  "update_interval": 24,
+  "check_time": 3,
+  "set_times": 0,
+  "library": {
+    "default": {  
+      "_time_series": false,
+      "_index_count": 1000,   
+      "value": "",  
+      "value_list": [],
+      "type": "index",
+      "remark": "",
+      "is_delete": false,
+      "update_time": 1661412437,
+      "count": 1
+    }
+  },
+  "cache": {
+    "value": "",
+    "update_time": 1661412437
+  }
+}
