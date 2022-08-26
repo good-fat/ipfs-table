@@ -1,6 +1,19 @@
 {
+  "name": "ipfs-table",
+  "version": "0.7.1",
+  "source": "src/index.js",
+  "main": "dist/index.common.js",
+  "module": "dist/index.js",
+  "license": "MIT",
+  "scripts": {
+    "watch": "parcel watch",
+    "build": "parcel build"
+  },
   "dependencies": {
     "immutable": "^4.1.0",
     "ipfs-http-client": "^57.0.3"
+  },
+  "devDependencies": {
+    "parcel": "^2.7.0"
   }
 }
