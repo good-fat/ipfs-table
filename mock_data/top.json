@@ -1,16 +1,18 @@
 {
-  "update_level": 2,
+  "update_level": 3,
   "update_type": ["index", "json", "text", "blob"],
   "update_time": 1661412437,
   "update_interval": 24,
   "check_time": 3,
   "set_times": 0,
+  "password": "",
   "library": {
-    "default": {  
+    "default": {
       "_time_series": false,
-      "_index_count": 1000,   
-      "value": "",  
+      "_index_count": 1000,
+      "value": "",
       "value_list": [],
+      "password": "",
       "type": "index",
       "remark": "",
       "is_delete": false,
