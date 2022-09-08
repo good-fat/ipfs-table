@@ -1,12 +1,12 @@
 {
-  "update_level": 3,
-  "update_type": ["index", "json", "text", "blob"],
   "_update_time": 1661412437,
   "_update_channel": "ipfs_event",
+  "_set_times": 0,
+  "update_level": 3,
+  "update_type": ["index", "json", "text", "blob"],
   "update_interval": 24,
   "solve_error_interval": 60,
   "check_time": 3,
-  "_set_times": 0,
   "password": "",
   "library": {
     "default": {
