@@ -1,0 +1,76 @@
+{
+  "_update_time": 1661412437,
+  "_update_count": 0,
+  "_addr": "",
+  "kv_server": {
+    "_update_time": 1661412437,
+    "_update_count": 0,
+    "db_object": {
+      "default": {
+        "_password": "password",
+        "_update_time": 1661412437,
+        "_update_count": 0,
+        "name": "default",
+        "node": "",
+        "backup_type": "system",
+        "backup_node": [],
+        "addr_list": []
+      }
+    }
+  },
+  "sql_server": {
+    "_update_time": 1661412437,
+    "_update_count": 0,
+    "db_object": {
+      "default": {
+        "_password": "password",
+        "_update_time": 1661412437,
+        "_update_count": 0,
+        "name": "default",
+        "node": "",
+        "backup_type": "system",
+        "backup_node": [],
+        "addr_list": []
+      }
+    }
+  },
+  "text_server": {
+    "_update_time": 1661412437,
+    "_update_count": 0,
+    "text_object": {
+      "default": {
+        "_password": "password",
+        "_update_time": 1661412437,
+        "_update_count": 0,
+        "name": "default",
+        "addr_list": []
+      }
+    }
+  },
+  "web_server": {
+    "_update_time": 1661412437,
+    "_update_count": 0,
+    "web_server_object": {
+      "default": {
+        "_update_time": 1661412437,
+        "_update_count": 0,
+        "name": "default",
+        "ip": "",
+        "ipns_addr": ""
+      },
+      "home": {
+        "_update_time": 1661412437,
+        "_update_count": 0,
+        "name": "default",
+        "ip": "",
+        "ipns_addr": ""
+      }
+    }
+  },
+  "update_server": {
+    "_update_time": 1661412437,
+    "_update_count": 0,
+    "_update_cycle": 60
+  }
+  
+}

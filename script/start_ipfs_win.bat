@@ -1,0 +1,1 @@
+start D:\LenovoSoftstore\git_store\ipfs-table\ipfs.exe daemon

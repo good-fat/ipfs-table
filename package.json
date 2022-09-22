@@ -11,7 +11,8 @@
   },
   "dependencies": {
     "immutable": "^4.1.0",
-    "ipfs-http-client": "^57.0.3"
+    "ipfs-http-client": "^57.0.3",
+    "pm2": "^5.2.0"
   },
   "devDependencies": {
     "parcel": "^2.7.0"
