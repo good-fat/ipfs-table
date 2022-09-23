@@ -1,3 +1,14 @@
+<!--
+ * @Author: zhang yu meng
+ * @Date: 2022-09-21 17:09:12
+ * @LastEditors: dld web2018.com@gmail.con
+ * @LastEditTime: 2022-09-23 16:01:24
+ * @FilePath: \ipfs-table\READMEV2.md
+ * @Description:
+ *
+ * Copyright (c) 2022 by dld web2018.com@gmail.con, All Rights Reserved.
+-->
+
 # ipfs-link
 
 ## 定位：
@@ -6,9 +17,9 @@
 
 ## 常驻服务：
 
-- web2 link web3服务（对外网络）- 系统级
-- kv存储服务 - 系统级
-- sql存储服务 - 系统级
+- web2 link web3 服务（对外网络）- 系统级
+- kv 存储服务 - 系统级
+- sql 存储服务 - 系统级
 - 扩展记录服务 - 系统级
 - 数据同步服务 - 系统级
 
@@ -20,13 +31,15 @@
 
 ## API
 
-## 实例启动程序
+### sql 存储服务
 
-### 实例启动参数配置
-
-### 实例启动程序逻辑
-
-## 接口
+- 创建数据库：POST /api/sql/create_db
+- 删除数据库：POST /api/sql/delete_db
+- 修改数据库设置：POST /api/sql/update_db
+- 执行 sql：POST /api/sql/execute_sql
+- 顺序执行 sql：POST /api/sql/execute_sqls
+- 查询 sql：POST /api/sql/query_sql
+- 单行查询 POST /api/sql/get_sql
 
 ### 获取数据
 

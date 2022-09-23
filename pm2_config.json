@@ -1,8 +1,8 @@
 {
   "apps": [
     {
-      "name": "start_ipfs_link",
-      "script": "dist/index.js",
+      "name": "ipfs_link",
+      "script": "./dist/index.js",
       "instances": 1,
       "log_date_format": "YYYY-MM-DD HH:mm Z",
       "max_memory_restart": "8000M"
